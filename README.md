@@ -12,14 +12,14 @@ Open a terminal window
 and type in...
 
 # MacOS and Linux
-First...
-`cd /path/to/file`
-then type...
-`python3 -m pip install -r requirements.txt`
+```
+cd /path/to/file
+python3 -m pip install -r requirements.txt
+```
 
 # Windows
-First...
-`cd /path/to/file`
-Then type...
-`python -m pip install -r requirements.txt`
+```
+cd /path/to/file
+python -m pip install -r requirements.txt
+```
 
