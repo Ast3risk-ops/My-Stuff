@@ -1,0 +1,20 @@
+from tkinter import *
+from random import randint
+def throw_dice():
+    text.delete(0.0, END)
+    text.insert(END, str(randint(1,6)))
+window = Tk()
+window.attributes("-topmost", 1)
+window.title("Roll the dice!")
+text = Text(window, width=2, height = 1)
+buttonA = Button(window, text = "Press here to throw the dice!", command = throw_dice)
+buttonA.pack()
+text.pack()
+canvas = Canvas(window, width = 800, height = 800)
+canvas.pack()
+canvas.create_rectangle(50,50,200,100, fill = "red")
+canvas.create_rectangle(50,50,100,100, fill = "blue")
+canvas.create_oval(50,50,200,100, outline = "green", fill = "green")
+canvas.create_oval(50,50,100,100, outline = "orange", fill = "orange")
+canvas.create_polygon(50,50,100,50, 75,0)
+canvas.create_line(50,50,100,50)

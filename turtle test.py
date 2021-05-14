@@ -1,0 +1,13 @@
+from turtle import Turtle
+Kappa = Turtle()
+print("Done Importing!!!!!!!!!!!!!!")
+Kappa.pencolor("cyan")
+Kappa.pensize(1)
+Kappa.circle(40)
+Kappa.penup()
+Kappa.goto(30, 30)
+Kappa.pendown()
+Kappa.circle(40)
+Kappa.hideturtle()
+Kappa.penup()
+Kappa.goto(0, 0)
