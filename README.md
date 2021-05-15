@@ -15,11 +15,32 @@ and type in...
 ```
 cd /path/to/file
 python3 -m pip install -r requirements.txt
+python3 snake.py
 ```
 
 # Windows
 ```
 cd /path/to/file
 python -m pip install -r requirements.txt
+python snake.py
 ```
+### Important Note
+
+I am using snake.py as an example you can run whatever script you want.
+
+On windows, you can type 
+```
+dir
+```
+or
+```
+ls
+```
+On MacOS and Linux, you can type,
+```
+ls
+```
+to list all files in a directory
+
+
 
