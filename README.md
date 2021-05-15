@@ -1,5 +1,5 @@
 # Prerequisites
-Python 3.9+ with pip. Get it at [python.org](http://https://www.python.org/downloads/). When downloading on windows, make sure to add Python to your PATH.
+Python 3.9+ with pip. Get it at [python.org](https://www.python.org/downloads/). When downloading on windows, make sure to add Python to your PATH.
 
 # How to install
 
