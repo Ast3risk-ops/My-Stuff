@@ -12,7 +12,7 @@ Open a terminal window
 and type in...
 
 # MacOS and Linux
-```
+```bash
 cd /path/to/file
 python3 -m pip install -r requirements.txt
 python3 snake.py
