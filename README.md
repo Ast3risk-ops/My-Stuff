@@ -4,7 +4,8 @@ Python 3.9+ with pip. Get it at [python.org](https://www.python.org/downloads/).
 # How to install
 
 
-Go to releases, then click the first zip file.
+Click on Code, then, download ZIP.
+Extract the zip to a directory of your choice
 
 # After that...
 
@@ -29,15 +30,15 @@ python snake.py
 I am using snake.py as an example, you can run whatever script you want.
 
 On windows, you can type: 
-```
+```bash
 dir
 ```
 or
-```
+```bash
 ls
 ```
 On MacOS and Linux, you can type,
-```
+```bash
 ls
 ```
 to list all files in a directory
