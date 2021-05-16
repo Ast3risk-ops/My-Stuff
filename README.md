@@ -26,9 +26,9 @@ python snake.py
 ```
 ### Important Note
 
-I am using snake.py as an example you can run whatever script you want.
+I am using snake.py as an example, you can run whatever script you want.
 
-On windows, you can type 
+On windows, you can type: 
 ```
 dir
 ```
