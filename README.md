@@ -22,8 +22,8 @@ python3 snake.py
 # Windows
 ```bash
 cd /path/to/file
-python -m pip install -r requirements.txt
-python snake.py
+pip install -r requirements.txt
+py snake.py
 ```
 ### Important Note
 
