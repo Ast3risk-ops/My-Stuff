@@ -43,5 +43,17 @@ ls
 ```
 to list all files in a directory
 
+# Making exe
+
+You can make exe files out of .py files by opening a terminal (On windows, right click start then click Windows PowerShell) and typing 
+```bash 
+pip install auto-py-to-exe
+```
+then type...
+```bash
+auto-py-to-exe
+```
+Then just select the script and type and name and hit Convert.
+
 
 
